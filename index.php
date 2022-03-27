@@ -4,7 +4,7 @@ echo "I have no idea what I'm doing in this course.";
 
 $servername = "sql11.freemysqlhosting.net";
 $username = "sql11481792";
-$password = "B14PRvaN5L";
+$password = "todo";
 $schema = "sql11481792";
 
 
