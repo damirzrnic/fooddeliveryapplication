@@ -1,8 +1,11 @@
-<html>
- <head>
-  <title>PHP Test</title>
- </head>
- <body>
- <?php echo '<p>Ajj max</p>'; ?>
- </body>
-</html>
+<?php
+
+echo "Hello world";
+
+
+
+
+
+
+
+?>
