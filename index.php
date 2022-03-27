@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello world";
+echo "I have no idea what I'm doing in this course.";
 
 
 
