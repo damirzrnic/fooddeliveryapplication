@@ -2,7 +2,7 @@
 
 echo "I have no idea what I'm doing in this course./n";
 
-$servername = "127.0.0.1";
+$servername = "localhost";
 $username = "damirzrnic";
 $password = "root";
 $schema = "fooddeliveryapp";
