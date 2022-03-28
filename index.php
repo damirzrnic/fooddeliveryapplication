@@ -4,7 +4,7 @@ echo "I have no idea what I'm doing in this course./n";
 
 $servername = "localhost";
 $username = "damirzrnic";
-$password = "root";
+$password = "root1";
 $schema = "todo";
 
 
