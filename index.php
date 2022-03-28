@@ -5,11 +5,10 @@ echo "I have no idea what I'm doing in this course./n";
 $servername = "localhost";
 $username = "damirzrnic";
 $password = "root";
-$schema = "todo";
 
 
 try {
-  $conn = new PDO("mysql:host=$servername;dbname=$schema", $username, $password);
+  $conn = new PDO("mysql:host=$servername;dbname="todo"", $username, $password);
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
   echo "Connected successfully";
