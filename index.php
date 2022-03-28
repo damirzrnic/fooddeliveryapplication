@@ -2,7 +2,7 @@
 
 echo "I have no idea what I'm doing in this course";
 
-$servername = 127.0.0.1;
+$servername = "localhost";
 $username = "root";
 $password = "root";
 $schema = "todo";
