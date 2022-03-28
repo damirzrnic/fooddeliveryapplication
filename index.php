@@ -5,7 +5,7 @@ echo "I have no idea what I'm doing in this course.";
 $servername = "localhost";
 $username = "damirzrnic";
 $password = "Hehexd123";
-$schema = "fooddeliveryapp";
+$schema = "fooddeliveryapplication";
 
 
 try {
