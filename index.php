@@ -3,7 +3,7 @@
 echo "I have no idea what I'm doing in this course";
 
 $servername = "localhost";
-$username = "todo";
+$username = "root";
 $password = "Hehexd123";
 $schema = "todo";
 
