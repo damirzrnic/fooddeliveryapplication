@@ -2,10 +2,10 @@
 
 echo "I have no idea what I'm doing in this course";
 
-$servername = "sql11.freemysqlhosting.net";
-$username = "sql11481792";
-$password = "B14PRvaN5L";
-$schema = "sql11481792";
+$servername = "localhost";
+$username = "damirzrnic";
+$password = "localhost";
+$schema = "damirzrnic";
 
 try {
   $conn = new PDO("mysql:host=$servername;dbname=$schema", $username, $password);
