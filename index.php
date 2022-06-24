@@ -5,7 +5,7 @@ echo "I have no idea what I'm doing in this course";
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$schema = "root";
+$schema = "fooddeliveryapplication";
 
 try {
   $conn = new PDO("mysql:host=$servername;dbname=$schema", $username, $password);
